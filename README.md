@@ -7,7 +7,7 @@
 
 **Client:** Vite, React, TypeScript
 
-**Tools:** ContextAPI, useReducer, immer
+**Tools:** ContextAPI, useReducer
 
 **Additional dependencies:**
 
@@ -18,6 +18,7 @@
 + styled-components
 + @phosphor-icons/react
 + react-router-dom
++ immer
 + @rocketseat/eslint-config
 
 ## Structure
