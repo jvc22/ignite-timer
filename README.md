@@ -15,10 +15,10 @@
 + react-hook-form
     - @hookform/resolvers
 + date-fns
++ immer
 + styled-components
 + @phosphor-icons/react
 + react-router-dom
-+ immer
 + @rocketseat/eslint-config
 
 ## Structure
