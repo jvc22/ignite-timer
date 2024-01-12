@@ -26,8 +26,8 @@
 **Pages**
 
 + App
-+ Countdown
-+ History
+    - Countdown
+    - History
 
 **Components**
 
